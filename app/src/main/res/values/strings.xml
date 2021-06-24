@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone Business</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="phone_inventory">PHONE INVENTORY</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="id_string_start">\"ID: \"</string>
+    <string name="dollar_sign">$</string>
+</resources>
